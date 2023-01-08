@@ -1,7 +1,7 @@
 # Digital-Business-Card
 First React project creating my own simple digital business card. Deployed at:
 
-https://preeminent-crepe-f35017.netlify.app/
+https://courageous-daifuku-3ebec6.netlify.app/
 
 I am working on getting the images to show up.
 
